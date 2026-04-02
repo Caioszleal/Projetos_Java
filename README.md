@@ -5,7 +5,7 @@ Este projeto tem como objetivo reunir exemplos práticos, exercícios e projetos
 
 ---
 
-## 📚 Conteúdos Abordados
+## 📚 Conteúdos com interesse em aprender
 
 * 🔹 Fundamentos da linguagem Java
 * 🔹 Programação Orientada a Objetos (POO)
