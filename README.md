@@ -23,7 +23,7 @@ Este projeto tem como objetivo reunir exemplos práticos, exercícios e projetos
 ## 🛠️ Tecnologias e Ferramentas
 
 * Java 8+ ☕
-* IntelliJ IDEA / Eclipse
+* IntelliJ IDEA / Eclipse / VSCode
 * Maven ou Gradle
 * Git & GitHub
 * JDBC
@@ -34,15 +34,6 @@ Este projeto tem como objetivo reunir exemplos práticos, exercícios e projetos
 ## 📂 Estrutura do Repositório
 
 ```
-📦 java-repository
- ┣ 📂 fundamentos
- ┣ 📂 poo
- ┣ 📂 collections
- ┣ 📂 excecoes
- ┣ 📂 projetos
- ┗ 📜 README.md
-```
-
 ---
 
 ## 🚀 Como Executar
