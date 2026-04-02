@@ -28,12 +28,8 @@ Este projeto tem como objetivo reunir exemplos práticos, exercícios e projetos
 * Git & GitHub
 * JDBC
 * MySQL / PostgreSQL (quando aplicável)
-
 ---
 
-## 📂 Estrutura do Repositório
-
-```
 ---
 
 ## 🚀 Como Executar
